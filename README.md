@@ -7,6 +7,8 @@ This project provides a solution to the trains problem using Java 17 and Spring 
 4. Find the shortest route between two towns.
 5. Count the number of different routes between two towns with a maximum distance.
 
+![image](https://github.com/birodriguez1995/TrainsResolution/assets/32909350/c74b52ff-fa61-44a8-a499-0c72fc1cafb3)
+
 ## Project Structure
 
 The project is structured using the MVC pattern. The main components are:
